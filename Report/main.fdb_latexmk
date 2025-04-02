@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1743594807.89204 "c:/Jean/Scolarite/NUS/SoC/Data_vizualisation/Assignement_2/Report/main.tex" "main.pdf" "main" 1743594811.19056 0
-  "c:/Jean/Scolarite/NUS/SoC/Data_vizualisation/Assignement_2/Report/main.tex" 1743594803 17213 cff3c94a1b96e594be9ba25047554e7d ""
+["pdflatex"] 1743597858.33369 "c:/Jean/Scolarite/NUS/SoC/Data_vizualisation/Assignement_2/Report/main.tex" "main.pdf" "main" 1743597860.89657 0
+  "c:/Jean/Scolarite/NUS/SoC/Data_vizualisation/Assignement_2/Report/main.tex" 1743597857 17286 35dd4b0d727a11745443d76cca6d89ee ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1722179636 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1722179088 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1722180115 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -211,10 +211,10 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1722197399 5529061 543042243f35af3474d78b11ac263772 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1722197892 8239251 c24d438266b1e634cf89191244e3b82f ""
   "c:/texlive/2024/texmf.cnf" 1722197355 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1743594810 3239 0a9fd2555a4c53bcc58e45721c22d920 "pdflatex"
-  "main.out" 1743594810 2514 3ff8bb54e4b7358d787f48e5e7012d2d "pdflatex"
-  "main.tex" 1743594803 17213 cff3c94a1b96e594be9ba25047554e7d ""
-  "main.toc" 1743594810 1260 1e768aeb9f3080732442c2ed827e0687 "pdflatex"
+  "main.aux" 1743597860 3239 0a9fd2555a4c53bcc58e45721c22d920 "pdflatex"
+  "main.out" 1743597860 2514 3ff8bb54e4b7358d787f48e5e7012d2d "pdflatex"
+  "main.tex" 1743597857 17286 35dd4b0d727a11745443d76cca6d89ee ""
+  "main.toc" 1743597860 1260 1e768aeb9f3080732442c2ed827e0687 "pdflatex"
   "ressources/barChart1.png" 1743588830 33805 d5b6bbf5394236c3fc9e75eb36a1961d ""
   "ressources/barChart2.png" 1743588852 33948 cd39f78a55d5eed34624f03f09fc97c0 ""
   "ressources/barChartRace1.png" 1743588746 42308 d172b6abcc3031bd3121e965b9aa1ec8 ""
