@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Data Visualization with Tableau}{3}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{3}{section.2}%
+\contentsline {section}{\numberline {3}Datasets and Pre-processing}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Bar Race Dataset}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Treemap Dataset}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Bar Chart Dataset}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Histogram Dataset}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Parallel Plot Dataset}{5}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Visualizations}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Bar Race: Monthly Active Users}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Sentiment Analysis: Treemap and Bar Chart}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Russian Troll Tweets: Histogram}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Twitter Users: Parallel Plot}{7}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Visualization Photos}{7}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{9}{section.6}%
